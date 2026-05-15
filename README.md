@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomar-hasi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tomar Hasi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-hasi/) |
+| **Get License** | [Secure Licensing Rights for Tomar Hasi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-hasi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Song Name: "Tomar Hasi"
+> Song Style: Melodic Romantic / Love / Emotional / Natural Poetry.. Not Complex Words..
+> Music Style: Melodic psychedelic hard rock, mid-tempo 90 BPM, blues fusion, raw powerful gritty energy, soul-touching vocals, distorted gritty blues guitar riffs, expressive lead solos with bends and slides, blues scale phrasing, warm overdriven bass, punchy acoustic drum kit, straight backbeat no shuffle, punchy snare and deep kick, dynamic drum fills, driving bass groove, intense rhythmic energy, anthemic stadium vocals, raspy emotional male vocal, smooth powerful female vocal, call and response duet, rich harmonies, hook-driven soaring chorus, high-pitched power tenor, wide stereo guitars, clean ambient guitar layers, centered vocals, plate reverb, delay throws, cinematic synths, subtle Hammond organ, atmospheric pads, lush strings, cinematic build-ups, tension and release, analog warmth saturation, crisp modern rock production, modern alt-rock style, raw soulful energy, clear Western instrumentation
+> অচেনা এক মায়ায় ঘেরা তোমার মুখের হাসি
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

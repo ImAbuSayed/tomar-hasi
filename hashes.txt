@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tomar Hasi
+
+This log tracks the cryptographic history and versioning for the song **Tomar Hasi** (tomar-hasi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T04:16:28.923065 | `v1` | `4c8885b5777a03fdec18d81c2a1a7f6e25cea345b0cfac90c0963eec74648a18` | `7a75e88a6de06f2a9187647e3da8a260bca8e3fb74d6e7342150c71d1a87086a` | `2026-05-16_tomar-hasi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

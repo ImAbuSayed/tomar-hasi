@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomar-hasi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tomar Hasi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-hasi/) |
+| **Get License** | [Music Rights & Licensing for Tomar Hasi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-hasi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4c8885b5777a03fdec18d81c2a1a7f6e25cea345b0cfac90c0963eec74648a18` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
